@@ -29,3 +29,4 @@ are released, dependency support is confirmed, etc.
     - `mime-support` for mime type detection
     - `libzbar0` for barcode detection
     - `poppler-utils` for barcode detection
+    - `whatever`
