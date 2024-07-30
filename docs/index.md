@@ -30,6 +30,29 @@ are released, dependency support is confirmed, etc.
     - `libzbar0` for barcode detection
     - `poppler-utils` for barcode detection
     - `whatever`
+  
+4.  Create a system user with a new home folder under which you wish
+    to run paperless.
+
+    ```shell-session
+    adduser paperless --system --home /opt/paperless --group
+    ```
+
+5.  Get the release archive from
+    <https://github.com/paperless-ngx/paperless-ngx/releases> for example with
+
+    ```shell-session
+    curl -O -L https://github.com/paperless-ngx/paperless-ngx/releases/download/v1.10.2/paperless-ngx-v1.10.2.tar.xz
+    ```
+
+    Extract the archive with
+
+    ```shell-session
+    tar -xf paperless-ngx-v1.10.2.tar.xz
+    ```
+
+    and copy the contents to the
+    home folder of the user you created before (`/opt/paperless`).
 
 #### Quellen
 
