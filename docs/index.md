@@ -35,4 +35,4 @@ are released, dependency support is confirmed, etc.
 
 Paperless-ngx Dokumentation [https://docs.paperless-ngx.com/setup/#bare_metal](https://docs.paperless-ngx.com/setup/#bare_metal)  
 Tutorial Paperless-ngx Discussion [https://github.com/paperless-ngx/paperless-ngx/discussions/5822](https://github.com/paperless-ngx/paperless-ngx/discussions/5822)  
-.
+Update Tutorial [https://nerdig.es/paperless-baremetal-update/](https://nerdig.es/paperless-baremetal-update/)  
