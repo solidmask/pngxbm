@@ -31,6 +31,6 @@ are released, dependency support is confirmed, etc.
     - `poppler-utils` for barcode detection
     - `whatever`
 
-## Quellen
+#### Quellen
 
 Paperless-ngx Dokumentation [https://docs.paperless-ngx.com/setup/#bare_metal](https://docs.paperless-ngx.com/setup/#bare_metal).
