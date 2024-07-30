@@ -30,3 +30,7 @@ are released, dependency support is confirmed, etc.
     - `libzbar0` for barcode detection
     - `poppler-utils` for barcode detection
     - `whatever`
+
+## Quellen
+
+Paperless-ngx Dokumentation [https://docs.paperless-ngx.com/setup/#bare_metal](https://docs.paperless-ngx.com/setup/#bare_metal).
