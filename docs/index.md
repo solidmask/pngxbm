@@ -1,6 +1,6 @@
 ### Bare Metal Route {#bare_metal}
 
-Test, Test, Test
+Test, Test, Test, Test
 
 Paperless runs on linux only. The following procedure has been tested on
 a minimal installation of Debian/Buster, which is the current stable
